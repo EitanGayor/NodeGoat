@@ -41,8 +41,8 @@
   "devDependencies": {
     "async": "^2.0.0-rc.4",
     "cross-env": "^7.0.2",
-    "cypress": "^3.3.1",
-    "grunt": "^1.0.1",
+    "cypress": "^3.4.1",
+    "grunt": "^1.6.0",
     "grunt-cli": "^1.2.0",
     "grunt-concurrent": "^2.3.0",
     "grunt-contrib-jshint": "^1.0.0",
@@ -54,8 +54,8 @@
     "grunt-npm-install": "^0.3.0",
     "grunt-retire": "^0.3.12",
     "mocha": "^2.4.5",
-    "nodemon": "^1.19.1",
-    "selenium-webdriver": "^2.53.2",
+    "nodemon": "^2.0.0",
+    "selenium-webdriver": "^4.1.0",
     "should": "^8.3.1",
     "zaproxy": "^0.2.0"
   },
